@@ -6,7 +6,6 @@
 *   location: String
 * }[]} students - The list of students.
 * @param {String} city - The location.
-* @author YAHYA BNOUN <https://github.com/yahyabnoun>
 * @returns
 */
 export default function getStudentsByLocation(students, city) {
